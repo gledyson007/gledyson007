@@ -45,5 +45,3 @@
 </table>
 
 <br>
-
-## Aplicações Web em Python 🐍
