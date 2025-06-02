@@ -45,3 +45,5 @@
 </table>
 
 <br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E63946&height=100&section=footer&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
