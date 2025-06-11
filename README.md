@@ -49,7 +49,7 @@
 
 ## Aplicações Web em Python 🐍 
 
-- 📖 [Sistema Biblioteca AFS - aplicação fullstack para escola EEEP Adolfo Ferreira de Sousa](https://github.com/Kauanrodrigues01/sistema-biblioteca-afs)
+- 📖 [Sistema Biblioteca AFS - aplicação fullstack para escola EEEP Adolfo Ferreira de Sousa](https://github.com/gledyson007/Biblioteca-AFS.git)
 - 📖 [Sistema de Agenda de Contatos](https://github.com/gledyson007/Sistema_de_Agenda_de_Contatos)
 
 
