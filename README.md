@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Francisco+Gledyson;Sou+Técnico+em+Desenvolvimento+de+Sistemas;)](https://git.io/typing-svg)
 
+<img src="./images/computer-illustration.png" alt="Ilustração de um Computador e Café" min-width="40%" max-width="40%" width="40%" align="right">
+
+
 #### Sou desenvolvedor Back-end com Django
 >- 🎓 Estudante de Desenvolvimento de Sistemas
 >- 🤔 Aprendendo novas tecnologias e desenvolvendo grandes aplicações.
@@ -43,6 +46,16 @@
     </td>
   </tr>
 </table>
+
+## Aplicações Web em Python 🐍 
+
+- 📖 [Sistema Biblioteca AFS - aplicação fullstack para escola EEEP Adolfo Ferreira de Sousa](https://github.com/Kauanrodrigues01/sistema-biblioteca-afs)
+- 📖 [Sistema de Agenda de Contatos](https://github.com/gledyson007/Sistema_de_Agenda_de_Contatos)
+
+
+
+
+
 
 <br>
 
