@@ -20,15 +20,15 @@
     <td width="50%">
       <h3>Backend</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,redis&theme=dark" alt="Python, Django, PostgreSQL, MySQL e Redis"/>⠀
+        <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,&theme=dark" alt="Python, Django, PostgreSQL, MySQL e Redis"/>⠀
       </p>
       <h3>Frontend</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js&theme=dark" alt="HTML, CSS, Sass, Bootstrap e JavaScript" />⠀
+        <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js&theme=dark" alt="HTML, CSS, Sass, Bootstrap e JavaScript" />⠀
       </p>
       <h3>Cloud & DevOps</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=docker,nginx,aws,linux,git,github&theme=dark" alt="Docker, Nginx, AWS, Linux, Git e GitHub"/>
+        <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github&theme=dark" alt="Docker, Nginx, AWS, Linux, Git e GitHub"/>
       </p>
       <h3>Tools and Applications</h3>
       <p align="left">
@@ -51,7 +51,7 @@
 
 - 📖 [Sistema Biblioteca AFS - aplicação fullstack para escola EEEP Adolfo Ferreira de Sousa](https://github.com/gledyson007/Biblioteca-AFS.git)
 - 📖 [Sistema de Agenda de Contatos](https://github.com/gledyson007/Sistema_de_Agenda_de_Contatos)
-
+- 📖 [API de Delivery de Comida com Django e Firebase](https://github.com/gledyson007/delivery-comida)
 
 
 
