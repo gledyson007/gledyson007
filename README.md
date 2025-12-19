@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0A66C2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Francisco+Gledyson;Desenvolvedor+Backend+%7C+Python+%26+Django;Técnico+em+Desenvolvimento+de+Sistemas;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0A66C2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Francisco+Gledyson;Desenvolvedor+Backend+%7C+Python+%26+Django;Desenvolvedor+Mobile+%7C+Flutter+%26+Dart;Técnico+em+Desenvolvimento+de+Sistemas;)](https://git.io/typing-svg)
 
 <br>
 
@@ -22,23 +22,26 @@
 class Developer:
     def __init__(self):
         self.name = "Francisco Gledyson"
-        self.role = "Backend Developer"
-        self.language = "Python"
-        self.framework = "Django"
+        self.roles = ["Backend Developer", "Mobile Developer"]
+        self.languages = ["Python", "Dart"]
+        self.frameworks = ["Django", "Flutter"]
     
     def say_hi(self):
         print("Obrigado por visitar!")
+        print(f"Desenvolvendo em {' & '.join(self.languages)}")
 
 me = Developer()
 me.say_hi()
 ```
 
 ### 🎯 Foco
-- Backend Developer especializado em **Django**
-- Criando **APIs REST** robustas e escaláveis
+- **Backend Developer** especializado em **Django**
+- **Mobile Developer** desenvolvendo apps com **Flutter**
+- Criando **APIs REST** robustas e **aplicações mobile** escaláveis
 - Apaixonado por **código limpo** e boas práticas
 
 ### 🌱 Atualmente
+- Expandindo conhecimentos em **Flutter** e **Firebase**
 - Aprendendo **FastAPI** e **Docker**
 - Estudando **Cloud Computing (AWS)**
 - Contribuindo em projetos **Open Source**
@@ -66,29 +69,37 @@ me.say_hi()
 
 ## 🚀 Projetos em Destaque
 
-### 📚 [Biblioteca-AFS](https://github.com/gledyson007/Biblioteca-AFS)
+### � Projetos Flutter
+
+#### 🍽️ [DeliMeals - Aplicativo de Receitas](https://github.com/gledyson007/DeliMeals---Aplicativo-de-Receitas)
+Aplicativo mobile de receitas culinárias com interface intuitiva  
+`Flutter` `Dart` `Mobile`
+
+#### 🎯 [Projeto Perguntas - Quiz App](https://github.com/gledyson007/Projeto-Perguntas---Flutter-Quiz-App)
+Aplicativo de quiz interativo desenvolvido em Flutter  
+`Flutter` `Dart` `Quiz`
+
+#### 💰 [Expenses - Despesas Pessoais](https://github.com/gledyson007/Expenses-Depesas-Pessoais-)
+App de controle de despesas pessoais  
+`Flutter` `Dart` `Finanças`
+
+### 🐍 Projetos Python/Django
+
+#### 📚 [Biblioteca-AFS](https://github.com/gledyson007/Biblioteca-AFS)
 Sistema de uma Biblioteca para a Escola EEEP Adolfo Ferreira de Sousa  
 `Django` `SQLite` `JavaScript` `HTML` `CSS`
 
-### 📝 [Projeto-Blog](https://github.com/gledyson007/Projeto-Blog)
-Projeto feito no curso da Udemy  
-`Django` `Python` `PostgreSQL`
-
-### 📅 [Projeto-ajenda-udemy](https://github.com/gledyson007/Projeto-ajenda-udemy-)
-Aplicação web desenvolvida com Django para gerenciar agenda de contatos  
-`Django` `Python` `SQLite`
-
-### 🍔 [delivery-comida](https://github.com/gledyson007/delivery-comida)
+#### 🍔 [delivery-comida](https://github.com/gledyson007/delivery-comida)
 API de delivery em tempo real construída com Django, PostgreSQL e Firebase  
 `Django` `Firebase` `REST API` `PostgreSQL`
 
-### 📞 [Sistema de Agenda de Contatos](https://github.com/gledyson007/Sistema_de_Agenda_de_Contatos)
+#### 📦 [SGE - Sistema de Gerenciamento de Estoque](https://github.com/gledyson007/SGE-Sistema-de-Gerenciamento-de-Estoque-)
+Sistema completo para gerenciamento de estoque  
+`Django` `Python` `PostgreSQL`
+
+#### 📞 [Sistema de Agenda de Contatos](https://github.com/gledyson007/Sistema_de_Agenda_de_Contatos)
 Sistema completo de gerenciamento de contatos  
 `Django` `PostgreSQL` `Bootstrap`
-
-### 📦 [API-Cadastro-de-Produtos](https://github.com/gledyson007/API-Cadastro-de-Produtos-)
-API completa para gerenciamento de produtos  
-`Django REST Framework` `Firebase` `SQLite`
 
 ---
 
